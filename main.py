@@ -9,7 +9,7 @@ class Player:
 class Game:
 	First=Player1
 	Last=Player2
-	def __init_(self, p1, p2):
+	def __init__(self, p1, p2):
 		Player1 = Player(p1, 5, 4, 0, 5)
 		Player2 = Player(p2, 5, 4, 0, 5)
 	def coinToss():
